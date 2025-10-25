@@ -8,25 +8,25 @@ const Home = () => {
       icon: Camera,
       title: 'Real-Time Detection',
       description: 'Advanced facial recognition technology analyzes your emotions in real-time through your webcam.',
-      image: 'https://images.unsplash.com/photo-1663124178716-2078c384c24a'
+      //image: 'https://images.unsplash.com/photo-1663124178716-2078c384c24a'
     },
     {
       icon: Brain,
       title: 'AI-Powered Analysis',
       description: 'Machine learning algorithms detect 7 different emotions with high accuracy and precision.',
-      image: 'https://images.unsplash.com/photo-1760037034572-24141225b295'
+      //image: 'https://images.unsplash.com/photo-1760037034572-24141225b295'
     },
     {
       icon: TrendingUp,
       title: 'Stress Monitoring',
       description: 'Track your stress levels with our intelligent Stress-o-Meter and get personalized insights.',
-      image: 'https://images.unsplash.com/photo-1760037034697-eee0b07ae072'
+      //image: 'https://images.unsplash.com/photo-1760037034697-eee0b07ae072'
     },
     {
       icon: Clock,
       title: 'Session History',
       description: 'Review your emotional patterns and stress trends over time with detailed session logs.',
-      image: 'https://images.unsplash.com/photo-1568909555342-230fc97f371a'
+      //image: 'https://images.unsplash.com/photo-1568909555342-230fc97f371a'
     }
   ];
 
